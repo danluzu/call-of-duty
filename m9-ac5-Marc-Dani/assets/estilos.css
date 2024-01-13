@@ -50,6 +50,8 @@ header {
 .img1 {
   width: 450px;
   margin: 0;
+  margin-left: 20px;
+  margin-right: 20px;
 }
 
 .img2 {
@@ -73,7 +75,8 @@ header {
   color: black;
 }
 
-.texto-cod {
+.texto-cod,
+.texto-cod2 {
   margin: 0;
   font-size: 25px;
   font-family: "Tektur", sans-serif;
@@ -91,4 +94,9 @@ header {
 .BO1 {
   padding-top: 40px;
   padding-bottom: 50px;
+}
+
+.titulo {
+  text-align: center;
+  padding-top: 20px;
 }/*# sourceMappingURL=estilos.css.map */
